@@ -1,9 +1,9 @@
 <?php
-//stsrt the session function
+//start the session function
 SESSION_START();
 
 //create pre defined username and password since we do not have database
-$acc_username = "CathySamonte";
+$acc_username = "Cathy Samonte";
 $acc_password = "cathcath21";
 $acc_fullname = "Cathy F. Samonte";
 $acc_address = "Libas, Buenavista, Marinduque PH";
